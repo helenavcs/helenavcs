@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Meu nome é Helena, resido em São Paulo<br><br>- 🔭 Atualmente, atuo com Desenvolvemento Web e Web Designer<br>- 📚 Cursando Desenvolvimento de Software Multiplataforma - FATEC<br> </p>
+<p align="left">Meu nome é Helena <br><br>- 🔭 Atualmente, atuo com Desenvolvemento Web e Web Design<br>- 📚 Cursando Desenvolvimento de Software Multiplataforma - FATEC<br> </p>
 
 ###
 
