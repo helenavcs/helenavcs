@@ -12,19 +12,19 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Olá! 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  Sobre Mim</h3>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Meu nome é Helena, resido em São Paulo<br><br>- 🔭 Atualmente, atuo com Desenvolvemento Web e Web Designer<br>- 📚 Cursando Desenvolvimento de Software Multiplataforma - FATEC<br> </p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Linguagens e Ferramentas</h3>
 
 ###
 
