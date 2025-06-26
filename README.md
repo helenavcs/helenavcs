@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">Me chamo Helena <br><br>- 🔭 Atualmente, atuo com Desenvolvemento Web e Web Design<br>- 📚 Cursando Desenvolvimento de Software Multiplataforma - FATEC<br> </p>
+<p align="left">Me chamo Helena <br><br>- 📚 Cursando Desenvolvimento de Software Multiplataforma - FATEC<br> </p>
 
 ###
 
