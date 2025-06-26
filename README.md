@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/user-attachments/assets/2a0d3af4-42f6-49a7-bee0-d803120b576b"
+  <img height="100" src="https://github.com/user-attachments/assets/2a0d3af4-42f6-49a7-bee0-d803120b576b"
  />
 </div>
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Meu nome é Helena <br><br>- 🔭 Atualmente, atuo com Desenvolvemento Web e Web Design<br>- 📚 Cursando Desenvolvimento de Software Multiplataforma - FATEC<br> </p>
+<p align="left">Me chamo Helena <br><br>- 🔭 Atualmente, atuo com Desenvolvemento Web e Web Design<br>- 📚 Cursando Desenvolvimento de Software Multiplataforma - FATEC<br> </p>
 
 ###
 
