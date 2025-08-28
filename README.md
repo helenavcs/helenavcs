@@ -1,12 +1,8 @@
 <div align="center">
-
+![starry night](https://github.com/user-attachments/assets/444b7f94-3b98-4269-9774-d94261846770)
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
 
 ###
 
