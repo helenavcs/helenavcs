@@ -1,5 +1,5 @@
 <div align="center">
-![starry night](https://github.com/user-attachments/assets/444b7f94-3b98-4269-9774-d94261846770)
+(https://github.com/user-attachments/assets/444b7f94-3b98-4269-9774-d94261846770)
 </div>
 
 ###
