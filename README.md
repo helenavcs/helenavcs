@@ -16,8 +16,8 @@
 
 ###
 
-<p align="left">Me chamo Helena <br><br>- 📚 Cursando Desenvolvimento de Software Multiplataforma - FATEC<br>
-<br>- 📚 Freelancer em Desenvolvimento Web e Web Design<br></p>
+<p align="left">Me chamo Helena <br><br> ° Cursando Desenvolvimento de Software Multiplataforma - FATEC<br>
+<br> ° Freelancer em Desenvolvimento Web e Web Design<br></p>
 
 
 ###
