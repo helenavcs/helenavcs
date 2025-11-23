@@ -6,11 +6,11 @@
 
 ###
 
-<h1 align="center">Olá! 👋</h1>
+<h1 align="center">Olá! </h1>
 
 ###
 
-<h3 align="left">👩‍💻  Sobre Mim</h3>
+<h3 align="left">  Sobre Mim</h3>
 
 ###
 
