@@ -44,10 +44,11 @@
 </div>
 
 <div align="center">
-<a href="https://badge.cps.sp.gov.br//view.aspx?d5febc41-93ba-4dae-bd58-43dee9ccb4da" target="_blank" style="border:1px solid gray;"><img src="https://badge.cps.sp.gov.br/_files/60ecbd64c97644179b0a11b8320aa942.png" width="12"></a>
+<a href="https://badge.cps.sp.gov.br//view.aspx?d5febc41-93ba-4dae-bd58-43dee9ccb4da" target="_blank" style="border:1px solid gray; padding:10px;"><img src="https://badge.cps.sp.gov.br/_files/60ecbd64c97644179b0a11b8320aa942.png" height="120"></a>
 
- <a href="https://www.credly.com/badges/082dab1f-aa23-4314-b4e2-b281d2d35b97/public_url" target="_blank" style="border:1px solid gray;"><img src="https://github.com/user-attachments/assets/3962486d-2e8a-468d-a0ff-a6ce2fce8946" width="12"></a>
+ <a href="https://www.credly.com/badges/082dab1f-aa23-4314-b4e2-b281d2d35b97/public_url" target="_blank" style="border:1px solid gray; padding:10px;"><img src="https://github.com/user-attachments/assets/3962486d-2e8a-468d-a0ff-a6ce2fce8946" height="120"></a>
 </div>
+
 
 ###
 
