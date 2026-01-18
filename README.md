@@ -44,12 +44,17 @@
 </div>
 
 <div align="center">
-<a href="" target="_blank" style="border:1px solid gray; padding:10px;"><img src="https://badge.cps.sp.gov.br/_files/60ecbd64c97644179b0a11b8320aa942.png" height="120"></a>
-
- <a href="https://www.credly.com/badges/082dab1f-aa23-4314-b4e2-b281d2d35b97/public_url" target="_blank" style="border:1px solid gray; padding:10px;"><img src="https://github.com/user-attachments/assets/3962486d-2e8a-468d-a0ff-a6ce2fce8946" height="120"></a>
-
- <a href="https://www.credly.com/badges/be4d859f-1487-4f57-a8fb-d627ad243733/public_url" target="_blank" style="border:1px solid gray; padding:10px;"><img src="https://github.com/user-attachments/assets/fbd6c511-82a7-4575-91df-985dba48115e" height="120"></a>
- 
+ <!--FATEC Badge-->
+<a href="https://badge.cps.sp.gov.br//view.aspx?d5febc41-93ba-4dae-bd58-43dee9ccb4da" target="_blank" style="border:1px solid gray; padding:10px;"><img src="https://badge.cps.sp.gov.br/_files/60ecbd64c97644179b0a11b8320aa942.png" height="120"></a>
+<!--JavaScript Essentials-->
+<a href="https://www.credly.com/badges/082dab1f-aa23-4314-b4e2-b281d2d35b97/public_url" target="_blank" style="border:1px solid gray; padding:10px;"><img 
+src="https://github.com/user-attachments/assets/3962486d-2e8a-468d-a0ff-a6ce2fce8946" height="120"></a>
+<!--HTML Essentials-->
+<a href="https://www.credly.com/badges/be4d859f-1487-4f57-a8fb-d627ad243733/public_url" target="_blank" style="border:1px solid gray; padding:10px;"><img 
+src="https://github.com/user-attachments/assets/fbd6c511-82a7-4575-91df-985dba48115e" height="120"></a>
+<!--CSS Essentials-->
+ <a href="https://www.credly.com/badges/9ad2e954-eff5-4e97-a5a4-c03613dfce9d/public_url" target="_blank" style="border:1px solid gray; padding:10px;"><img 
+src="https://github.com/user-attachments/assets/94f75090-f149-4eb0-8f6a-42db33619074" height="120"></a>
 </div>
 
 
