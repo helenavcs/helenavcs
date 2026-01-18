@@ -48,7 +48,7 @@
 
  <a href="https://www.credly.com/badges/082dab1f-aa23-4314-b4e2-b281d2d35b97/public_url" target="_blank" style="border:1px solid gray; padding:10px;"><img src="https://github.com/user-attachments/assets/3962486d-2e8a-468d-a0ff-a6ce2fce8946" height="120"></a>
 
- <a href="https://www.credly.com/badges/be4d859f-1487-4f57-a8fb-d627ad243733/public_url" target="_blank" style="border:1px solid gray; padding:10px;"><img src="<img width="600" height="600" alt="html-essentials" src="https://github.com/user-attachments/assets/fbd6c511-82a7-4575-91df-985dba48115e" height="120"></a>
+ <a href="https://www.credly.com/badges/be4d859f-1487-4f57-a8fb-d627ad243733/public_url" target="_blank" style="border:1px solid gray; padding:10px;"><img src="https://github.com/user-attachments/assets/fbd6c511-82a7-4575-91df-985dba48115e" height="120"></a>
  
 </div>
 
