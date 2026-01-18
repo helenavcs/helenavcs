@@ -46,7 +46,7 @@
 <div align="center">
 <a href="https://badge.cps.sp.gov.br//view.aspx?d5febc41-93ba-4dae-bd58-43dee9ccb4da" target="_blank" style="border:1px solid gray; padding:10px;"><img src="https://badge.cps.sp.gov.br/_files/60ecbd64c97644179b0a11b8320aa942.png" height="120"></a>
 
- <a href="https://www.credly.com/badges/082dab1f-aa23-4314-b4e2-b281d2d35b97/public_url" target="_blank" style="border:1px solid gray; padding:10px;"><img src="https://github.com/user-attachments/assets/3962486d-2e8a-468d-a0ff-a6ce2fce8946" height="120"></a>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="be4d859f-1487-4f57-a8fb-d627ad243733" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </div>
 
 
