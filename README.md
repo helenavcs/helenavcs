@@ -43,7 +43,7 @@
   <img width="12" />
 </div>
 
-<h3 align="center">  Badges</h3>
+<h1 align="center">  Badges</h1>
 
 ###
 
