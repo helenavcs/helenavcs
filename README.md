@@ -62,6 +62,9 @@ src="https://github.com/user-attachments/assets/3962486d-2e8a-468d-a0ff-a6ce2fce
 <!--JavaScript Essentials 2-->
 <a href="https://www.credly.com/badges/26ce8c67-2915-4a1b-a934-feae76f5142d/public_url" target="_blank" style="border:1px solid gray; padding:10px;"><img 
 src="https://github.com/user-attachments/assets/f355fa52-15f4-4573-b031-64b9c97eb437" height="120"></a>
+<!--Python Essentials 1-->
+ <a href="https://www.credly.com/badges/17348fd9-6d31-4c9a-8027-c3c51a4f13a9/public_url" target="_blank" style="border:1px solid gray; padding:10px;"><img 
+src="https://github.com/user-attachments/assets/fa27e64c-615c-4c1f-ac8f-d9c9542f0830" height="120"></a>
 </div>
 
 
