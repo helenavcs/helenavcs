@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left"> Linguagens e Ferramentas</h3>
+<h3 align="left"> Linguagens </h3>
 
 ###
 
@@ -33,7 +33,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  
+</div>
+
+###
+
+<h3 align="left"> Ferramentas </h3>
+
+###
+
+<div align="left"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
   <img width="12" />
