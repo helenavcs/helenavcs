@@ -81,6 +81,4 @@ src="https://github.com/user-attachments/assets/fa27e64c-615c-4c1f-ac8f-d9c9542f
 
 ###
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
 ###
