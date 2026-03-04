@@ -1,6 +1,5 @@
 <div align="center">
  <img src="https://github.com/user-attachments/assets/10981638-20fb-4896-8990-7486f3ddc53a"/>
- <img widht="18">
 </div>
 
 ###
@@ -17,8 +16,7 @@
 
 ###
 
-<p align="left">Me chamo Helena <br><br> ° Cursando Desenvolvimento de Software Multiplataforma - FATEC<br>
-<br> ° Freelancer em Desenvolvimento Web e Web Design<br></p>
+<p align="left">Me chamo Helena, curso Desenvolvimento de Software Multiplataforma na FATEC e tabalho como freelancer em Desenvolvimento Web e Web Design</p>
 
 
 ###
