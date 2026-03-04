@@ -16,7 +16,8 @@
 
 ###
 
-<p align="left">Me chamo Helena, curso Desenvolvimento de Software Multiplataforma na FATEC e tabalho como freelancer em Desenvolvimento Web e Web Design</p>
+<p align="left">Me chamo Helena, curso Desenvolvimento de Software Multiplataforma na FATEC e <br>
+ tabalho como freelancer em Desenvolvimento Web e Web Design</p>
 
 
 ###
